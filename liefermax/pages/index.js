@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <>
 
-      <h1>Essen</h1>
+      <h1>lecker essen</h1>
     </>
   )
 }
