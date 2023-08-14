@@ -1,12 +1,10 @@
-import { Inter } from 'next/font/google'
+import { Slider } from '@/components/Slider'
 
-
-const inter = Inter({ subsets: ['latin'] })
 
 export default function Home() {
   return (
     <>
-
+      <Slider />
       <h1>lecker essen</h1>
     </>
   )
