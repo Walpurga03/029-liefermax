@@ -10,3 +10,7 @@ popular Color Palettes:
 
 emojis:
 -> https://emojipedia.org/
+
+gratis bilder:
+-> https://pixabay.com 
+-> https://pexels.com
