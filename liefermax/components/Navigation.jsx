@@ -4,7 +4,7 @@ import {Badge} from 'react-bootstrap'
 
 export default function Navigation() {
   return (
-    <div className="shadow sticky-top p-2 md-2 bg-danger">
+    <div className="shadow sticky-top p-2 m-2 bg-danger">
       <div className="d-flex justify-content-between align-items-center">
         <Link href="/">
             <Image src={'/image/logo.png'} alt='logo' width={180} height={75}/>
